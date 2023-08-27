@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HortaOrganica.API", "HortaOrganica.API\HortaOrganica.API.csproj", "{FCD9BC10-AC6D-42A6-8221-745362F8853B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HortaOrganica.Application", "HortaOrganica.Application\HortaOrganica.Application.csproj", "{B5997C22-4472-4465-B79C-73B67D2A1E4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HortaOrganica.Core", "HortaOrganica.Core\HortaOrganica.Core.csproj", "{266CB65D-59CD-4F53-842C-463A3ADE4C42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HortaOrganica.Infrastructure", "HortaOrganica.Infrastructure\HortaOrganica.Infrastructure.csproj", "{86C5AEE8-A371-4C50-9D37-48AE8ED7835A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCD9BC10-AC6D-42A6-8221-745362F8853B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCD9BC10-AC6D-42A6-8221-745362F8853B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCD9BC10-AC6D-42A6-8221-745362F8853B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCD9BC10-AC6D-42A6-8221-745362F8853B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5997C22-4472-4465-B79C-73B67D2A1E4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5997C22-4472-4465-B79C-73B67D2A1E4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5997C22-4472-4465-B79C-73B67D2A1E4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5997C22-4472-4465-B79C-73B67D2A1E4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{266CB65D-59CD-4F53-842C-463A3ADE4C42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{266CB65D-59CD-4F53-842C-463A3ADE4C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{266CB65D-59CD-4F53-842C-463A3ADE4C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{266CB65D-59CD-4F53-842C-463A3ADE4C42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86C5AEE8-A371-4C50-9D37-48AE8ED7835A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C5AEE8-A371-4C50-9D37-48AE8ED7835A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86C5AEE8-A371-4C50-9D37-48AE8ED7835A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C5AEE8-A371-4C50-9D37-48AE8ED7835A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BD7B1D3-6A4C-4185-9551-16B6BA9D7E8F}
+	EndGlobalSection
+EndGlobal
